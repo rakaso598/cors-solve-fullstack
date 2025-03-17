@@ -9,7 +9,7 @@
 
 #### 작동순서
 
-![image](https://github.com/user-attachments/assets/403199ec-b6c6-4be5-8d04-ee57dd05de09)
+![image](https://github.com/user-attachments/assets/45ea7f8e-7fb5-40be-b00c-359260cf5550)
 
 1. 백엔드에서 api 요청을 받는 모듈을 작성.
 2. `npm i cors` 후 `app.use(cors());` 사용.
