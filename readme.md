@@ -9,8 +9,6 @@
 
 #### 작동순서
 
-![image](https://github.com/user-attachments/assets/45ea7f8e-7fb5-40be-b00c-359260cf5550)
-
 1. 백엔드에서 api 요청을 받는 모듈을 작성.
 2. `npm i cors` 후 `app.use(cors());` 사용.
 3. 프론트엔드 브라우저의 버튼을 누르면 `localhost:5090/my`로 요청을 보냄.
@@ -32,7 +30,7 @@
 
 #### 백엔드(express) 프로젝트 초기화
 
-![image](https://github.com/user-attachments/assets/89ddf69c-c73a-4a47-9e86-b8596869a624)
+![image](https://github.com/user-attachments/assets/45ea7f8e-7fb5-40be-b00c-359260cf5550)
 
 - npm i -y
 
